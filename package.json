@@ -1,0 +1,15 @@
+{
+  "name": "clothes-files-rename-tool",
+  "version": "1.0.0",
+  "description": "Tool for renaming clothes files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Vinipux322",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.10"
+  }
+}
